@@ -4,7 +4,7 @@
     <h1>{{$post->title}}</h1>
 
     <div>
-         {!!$post->body!!}
+        <p>{!!$post->body!!}</p>
     </div>
     <a href="/">Go back</a>
 @endsection
