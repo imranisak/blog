@@ -1,17 +1,10 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>My first post</title>
-    <link rel="stylesheet" href="/app.css">
+@extends("layout")
 
-</head>
-<body>
-    <h1><?= $post->title ?></h1>
+@section('content')
+    <h1>{{$post->title}}</h1>
 
     <div>
-        <?= $post->body ?>
+         {!!$post->body!!}
     </div>
     <a href="/">Go back</a>
-</body>
-</html>
+@endsection
