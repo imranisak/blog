@@ -25,8 +25,7 @@ Route::get('/', function () {
 });
 
 Route::get('posts/{post}', function ($slug){
-    $post = Post::find($slug);
     return view('post', [
-        'post'=>$post
+        'post'=> Post::findOrFail($slug)
     ]);
-})->where('post', '[A-z_\-]+');
+});
