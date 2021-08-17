@@ -6,8 +6,16 @@
   <component name="ChangeListManager">
     <list default="true" id="db39bb22-a149-4ca6-8efc-8e51648f2f6d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Models/Category.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/Category.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/Models/Post.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/Post.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Models/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/User.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/factories/UserFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/factories/UserFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/database/migrations/2021_08_09_120730_create_posts_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2021_08_09_120730_create_posts_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2021_08_09_150600_create_categories_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2021_08_09_150600_create_categories_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/seeders/DatabaseSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeders/DatabaseSeeder.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/post.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/post.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/posts.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/posts.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
@@ -147,6 +155,7 @@
       <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php81" />
       <path value="$PROJECT_DIR$/vendor/nette/schema" />
       <path value="$PROJECT_DIR$/vendor/nette/utils" />
+      <path value="$PROJECT_DIR$/vendor/itsgoingd/clockwork" />
     </include_path>
   </component>
   <component name="ProjectId" id="1vtmoFm9b7tAqY40ESnYJHrovnP" />
@@ -155,6 +164,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="NEW_TOOLWINDOW_STRIPE_DEFAULTS" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
@@ -165,6 +175,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager">
@@ -183,10 +194,17 @@
       <updated>1627389932122</updated>
       <workItem from="1627389934435" duration="299000" />
       <workItem from="1628499394890" duration="16215000" />
+      <workItem from="1629186898522" duration="8932000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.env" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
