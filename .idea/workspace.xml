@@ -5,17 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="db39bb22-a149-4ca6-8efc-8e51648f2f6d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/resources/views/components/category-button.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/components/posts-grid.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/seeders/DatabaseSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeders/DatabaseSeeder.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/components/layout.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/components/layout.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/components/post-card.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/components/post-card.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/components/post-featured-card.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/components/post-featured-card.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/partials/post-header.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/partials/post-header.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/post.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/post.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/posts.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/posts.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -200,7 +195,7 @@
       <workItem from="1629213257536" duration="1936000" />
       <workItem from="1629362441065" duration="82000" />
       <workItem from="1629362533458" duration="834000" />
-      <workItem from="1629363688494" duration="5941000" />
+      <workItem from="1629363688494" duration="9857000" />
     </task>
     <servers />
   </component>
