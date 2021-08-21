@@ -5,17 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="db39bb22-a149-4ca6-8efc-8e51648f2f6d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/resources/views/components/dropdown-item.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/components/dropdown.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/components/icon.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/PostController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/PostController.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/Models/Post.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/Post.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/factories/PostFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/factories/PostFactory.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/components/post-card.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/components/post-card.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/components/post-featured-card.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/components/post-featured-card.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/components/posts-grid.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/components/posts-grid.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/partials/post-header.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/partials/post-header.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/post.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/post.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
