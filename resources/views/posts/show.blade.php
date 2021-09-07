@@ -39,7 +39,6 @@
                         <x-category-button :category="$post->category"/>
                     </div>
                 </div>
-
                 <h1 class="font-bold text-3xl lg:text-4xl mb-10">
                    {{$post->title}}
                 </h1>
@@ -49,7 +48,11 @@
                 </div>
             </div>
             <section class="col-span-8 col-start-5 mt-10 space-y-6">
-                <x-post-comment />
+                @include('posts._add-comment-form')
+
+                @foreach ($post->comments as $comment)
+                    <x-post-comment :comment="$comment" />
+                @endforeach
             </section>
         </article>
     </main>
