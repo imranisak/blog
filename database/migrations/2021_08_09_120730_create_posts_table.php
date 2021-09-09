@@ -18,6 +18,7 @@ class CreatePostsTable extends Migration
             $table->foreignId('category_id');
             $table->foreignId('user_id');
             $table->string('title', 250);
+            $table->string('thumbnail',)->nullable();
             $table->string('slug', 250)->unique();
             $table->text('excerpt');
             $table->text('body');
