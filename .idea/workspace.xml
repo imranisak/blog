@@ -5,16 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="db39bb22-a149-4ca6-8efc-8e51648f2f6d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/resources/views/components/form/button.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/components/form/error.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/components/form/field.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/components/form/input.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/components/form/label.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/components/form/textarea.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/components/setting.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/components/submit-button.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/posts/_add-comment-form.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/posts/_add-comment-form.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Models/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/User.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/components/dropdown.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/components/dropdown.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/components/form/input.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/components/form/input.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/components/form/textarea.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/components/form/textarea.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/components/layout.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/components/layout.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/posts/create.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/posts/create.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/register/create.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/register/create.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/sessions/create.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/sessions/create.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -152,6 +153,7 @@
       <path value="$PROJECT_DIR$/vendor/nette/schema" />
       <path value="$PROJECT_DIR$/vendor/nette/utils" />
       <path value="$PROJECT_DIR$/vendor/itsgoingd/clockwork" />
+      <path value="$PROJECT_DIR$/vendor/mailchimp/marketing" />
     </include_path>
   </component>
   <component name="ProjectId" id="1vtmoFm9b7tAqY40ESnYJHrovnP" />
@@ -201,6 +203,9 @@
       <workItem from="1629362533458" duration="834000" />
       <workItem from="1629363688494" duration="9857000" />
       <workItem from="1629452941657" duration="6791000" />
+      <workItem from="1631523099058" duration="27000" />
+      <workItem from="1631625211997" duration="1001000" />
+      <workItem from="1631702229132" duration="2898000" />
     </task>
     <servers />
   </component>
