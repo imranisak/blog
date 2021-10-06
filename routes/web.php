@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\CategoryController;
 use App\Http\Controllers\NewsletterController;
 use App\Http\Controllers\PostCommentsController;
 use App\Http\Controllers\AdminPostController;
@@ -39,4 +40,5 @@ Route::post('/logout', [SessionsController::class, 'destroy'])->middleware('auth
 //Admin
 Route::middleware('can:admin')->group(function () {
     Route::resource('admin/posts', AdminPostController::class)->except('show');
+    Route::resource('admin/categories', CategoryController::class)->except('show');
 });
