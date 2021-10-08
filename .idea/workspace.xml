@@ -5,21 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="db39bb22-a149-4ca6-8efc-8e51648f2f6d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/resources/views/admin/posts/edit.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/admin/posts/index.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/PostController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/PostController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Kernel.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Kernel.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Providers/AppServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Providers/AppServiceProvider.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/components/category-button.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/components/category-button.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/components/form/input.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/components/form/input.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/components/form/textarea.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/components/form/textarea.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/RegisterController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/RegisterController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/factories/PostFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/factories/PostFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/factories/UserFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/factories/UserFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/components/layout.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/components/layout.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/components/setting.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/components/setting.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/posts/create.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/admin/posts/create.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/components/post-card.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/components/post-card.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/components/post-comment.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/components/post-comment.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/components/post-featured-card.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/components/post-featured-card.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/posts/_add-comment-form.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/posts/_add-comment-form.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/posts/_header.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/posts/_header.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/register/create.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/register/create.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/sessions/create.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/sessions/create.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -215,6 +212,8 @@
       <workItem from="1631702229132" duration="2898000" />
       <workItem from="1631811673399" duration="73000" />
       <workItem from="1633348015189" duration="5644000" />
+      <workItem from="1633609934150" duration="373000" />
+      <workItem from="1633682104337" duration="4105000" />
     </task>
     <servers />
   </component>

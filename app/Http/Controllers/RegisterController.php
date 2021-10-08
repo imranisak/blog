@@ -18,7 +18,10 @@ class RegisterController extends Controller
             'email' => 'required|email|max:255|unique:users,email',
             'password' => 'required|min:7|max:255',//Encrypted via the mutator, in the User class
         ]);
-
+        if(request('picture')) {
+            request()->validate(['picture|image']);
+            $attributes['picture']=request()->file('picture')->store('profilePictures');
+        }
         $user=User::create($attributes);
         auth()->login($user);
 
